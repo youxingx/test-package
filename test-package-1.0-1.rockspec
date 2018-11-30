@@ -1,7 +1,7 @@
 package = "test-package"
 version = "1.0-1"
 source = {
-   url = "git://github.com:youxingx/test-package.git",
+   url = "git://github.com/youxingx/test-package.git",
    tag = "v1.0-1",
    branch = "master"
 }
